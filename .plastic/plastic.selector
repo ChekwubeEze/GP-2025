@@ -1,0 +1,4 @@
+repository "GP-2025/GP-2025@11270460860594@cloud"
+  path "/"
+    br "/main"
+    co "/main"
